@@ -1,0 +1,11 @@
+message_0:
+    text: >
+        あなたは\v[49]を見つけました!
+
+message_1:
+    text: >
+        You got \v[49]!
+
+message_2:
+    text: >
+        It's a PRESENT!\! Take it?
