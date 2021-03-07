@@ -1,0 +1,14 @@
+{
+  "id": "aubreys_nightmare",
+  "name": "Aubrey's Nightmare",
+  "description": "Aubrey's Nightmare",
+  "version": "0.0.1",
+  "files": {
+    "plugins": [],
+    "text": [],
+    "data": [],
+    "maps": [],
+    "assets": [],
+    "exec": []
+  }
+}
