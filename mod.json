@@ -5,9 +5,16 @@
   "version": "0.0.1",
   "files": {
     "plugins": [],
-    "text": [],
-    "data": [],
-    "maps": [],
+    "text": [
+      "text/aubrey_night_1.yml"
+    ],
+    "data": [
+      "data/MapInfos.json",
+      "data/Map514.json",
+      "data/Map516.json",
+      "data/Map999.json"
+    ],
+    "maps": ["maps/map516.json"],
     "assets": [],
     "exec": []
   }
